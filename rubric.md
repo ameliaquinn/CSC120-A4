@@ -46,7 +46,7 @@ __**YES**___ 2 pts: Executes fully & consistently without crashing (exception/fr
 
 __**YES**___ 2 pt: Complies with style guidelines (missing items 1 pt each):
 
-      _____ Classes & class members all have Javadoc header comments
+      ___**YES**__ Classes & class members all have Javadoc header comments
 
       __**YES**___ Clear and consistent indentation of bracketed sections
 
